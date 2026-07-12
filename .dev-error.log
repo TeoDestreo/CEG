@@ -1,0 +1,8 @@
+$ vinext dev
+TypeError: (0 , __vite_ssr_import_1__.Geist) is not a function
+    at runInRunnerObject (workers/runner-worker/index.js:107:3)
+    at getWorkerEntryExportTypes (workers/runner-worker/index.js:246:24)
+    at null.<anonymous> (workers/runner-worker/index.js:350:37)
+    at maybeCaptureError (workers/runner-worker/index.js:51:10) {
+  [cause]: undefined
+}
